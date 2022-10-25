@@ -1,0 +1,28 @@
+{
+  "name": "netflix-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adib23704/Netflix-API.git"
+  },
+  "author": "Adib23704",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adib23704/Netflix-API/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Adib23704/Netflix-API#readme",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "chalk": "^5.1.2",
+    "cli-table": "^0.3.11",
+    "dotenv": "^16.0.3",
+    "ora": "^6.1.2",
+    "prompts": "^2.4.2"
+  }
+}
